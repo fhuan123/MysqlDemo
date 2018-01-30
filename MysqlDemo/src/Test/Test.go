@@ -1,15 +1,13 @@
 package main
 
 import (
-	"AppStart"
-	"fmt"
-	"strconv"
+	//"AppStart"
 	"fmt"
 	"strconv"
 )
 
 func main() {
-	AppStart.AppInit()
+	//AppStart.AppInit()
 	slice1 := make([]string,3,5)
 
 	slice1[0] = "0"
