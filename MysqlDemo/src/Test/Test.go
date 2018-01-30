@@ -10,6 +10,7 @@ func main() {
 	//AppStart.AppInit()
 	slice1 := make([]string,3,5)
 
+
 	slice1[0] = "0"
 	slice1[1] = "1"
 	slice1[2] = "2"
