@@ -14,6 +14,7 @@ func main() {
 	slice1[1] = "1"
 	slice1[2] = "2"
 
+
 	fmt.Println(strconv.Itoa(len(slice1)) + "----------"  + strconv.Itoa(cap(slice1)))
 
 	slice2 := slice1
