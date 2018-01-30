@@ -97,6 +97,10 @@ func AddObjectList() {
 	for index, value := range users {
 		fmt.Printf("arr[%d]=User.id(PK)=%d \n", index, value.Id)
 	}
+
+
+
+
 }
 
 func QueryObject(userName string) {
