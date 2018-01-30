@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="204f1ee1-0753-48e3-b195-960dd0e34b80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DataAccess/Test.go" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/DataAccess/Test.go" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -73,21 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserEntity.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserEntity.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DataAccess/UserEntity.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DataAccess/Test.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -553,7 +543,8 @@
     <MESSAGE value="delete" />
     <MESSAGE value="123" />
     <MESSAGE value="123delet" />
-    <option name="LAST_COMMIT_MESSAGE" value="123delet" />
+    <MESSAGE value="add test go file push remote server" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test go file push remote server" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -898,19 +889,19 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataAccess/de.go" />
-    <entry file="file://$PROJECT_DIR$/src/DataAccess/UserEntity.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataAccess/123.go" />
     <entry file="file://$PROJECT_DIR$/src/DataAccess/Test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataAccess/UserEntity.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding />
         </state>
       </provider>
